@@ -1,7 +1,7 @@
 # Shape Completion Toolkit
 
 To speed up the usage of our dataset, we provide a development kit providing a PyTorch-based data loader and a small library for computing the metrics that we use in
-the challenge relative to this dataset.
+the challenge relative to this dataset. For more details on the dataset you can read our paper [link](https://www.ipb.uni-bonn.de/pdfs/magistri2025icra.pdf)
 
 ## Dataloader
 
