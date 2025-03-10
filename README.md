@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 from dataloader import ShapeCompletionDataset
 
 shape_completion_dataset = ShapeCompletionDataset(data_source='path_to_data/')
-dataloader = DataLoader(, collate_fn=Pierugo.collate)
+dataloader = DataLoader(shape_completion_dataset)
 
 for item in dataloader:
     <do stuff>
