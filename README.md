@@ -54,6 +54,5 @@ author = {F. Magistri and T. L\"abe and E. Marks and S. Nagulavancha and Y. Pan 
 title = {{A Dataset and Benchmark for Shape Completion of Fruits for Agricultural Robotics}},
 booktitle = icra,
 year = 2025,
-url = {https://arxiv.org/pdf/2407.13304v1},
 }
 
