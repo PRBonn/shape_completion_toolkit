@@ -43,3 +43,17 @@ final_pr_metrics = pr.compute()
 cd.reset()
 pr.reset()
 ```
+
+## How to Cite
+
+If you use this repo, please cite as:
+
+```bibtex  
+@inproceedings{magistri2025icra,
+author = {F. Magistri and T. L\"abe and E. Marks and S. Nagulavancha and Y. Pan and C. Smitt and L. Klingbeil and M. Halstead and H. Kuhlmann and C. McCool and J. Behley and C. Stachniss},
+title = {{A Dataset and Benchmark for Shape Completion of Fruits for Agricultural Robotics}},
+booktitle = icra,
+year = 2025,
+url = {https://arxiv.org/pdf/2407.13304v1},
+}
+
